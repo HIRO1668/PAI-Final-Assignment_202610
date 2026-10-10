@@ -53,9 +53,9 @@ Notebookを実行すると，ロボットの走行シミュレーションが行
 ## 7. ディレクトリ構成
 
 ```text
-robot-path-following-simulation/
+PAI-Final-Assignment_202610
 ├── README.md
-└── simulation.ipynb
+└── ROS講座39_車輪ロボット_ros control.ipynb
 ```
 
 ※ ファイル名は実際にリポジトリへ登録したファイル名に合わせて変更する．
@@ -65,3 +65,9 @@ robot-path-following-simulation/
 - 実行環境やライブラリのバージョンによって，表示や動作が異なる場合がある．
 - シミュレーション結果は，設定した運動学モデルおよび制御条件に依存する．
 - 本プロジェクトはシミュレーションを対象としており，実機での動作を保証するものではない．
+
+## 参考文献
+
+ROS講座39 車輪ロボットをros_controlで動かす
+最終更新日 2022年10月06日，投稿日 2018年08月10日
+https://qiita.com/srs/items/9a1d3bc6f3d381c4d40b
